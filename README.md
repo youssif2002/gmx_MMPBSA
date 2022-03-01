@@ -2,37 +2,36 @@
 [![support](https://img.shields.io/badge/support-JetBrains-brightgreen)](https://www.jetbrains.com/?from=gmx_MMPBSA)
 [![python](https://img.shields.io/badge/python-v3.x-blue)]()
 [![Downloads](https://pepy.tech/badge/gmx-mmpbsa)](https://pepy.tech/project/gmx-mmpbsa)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4569307.svg)](http://doi.org/10.5281/zenodo.4569307)
+[![DOI](https://img.shields.io/badge/DOI-10.1021%2Facs.jctc.1c00645-blue)](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00645)
 
 # Welcome to gmx_MMPBSA!
 gmx_MMPBSA is a new tool based on AMBER's MMPBSA.py aiming to perform end-state free energy calculations with GROMACS 
 files. It works with all GROMACS versions along with AmberTools20 or 21.
 
-**Please see the documentation [here](https://valdes-tresanco-ms.github.io/gmx_MMPBSA/)**
+**Please see the documentation [here](https://valdes-tresanco-ms.github.io/gmx_MMPBSA/getting-started/)**
 
-## Citing us
+## Cite us
 
-At the moment we only have Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4569307.svg)](https://doi.org/10.5281/zenodo.4569307)
+<a href="https://www.scimagojr.com/journalsearch.php?q=5100155074&amp;tip=sid&amp;exact=no" title="SCImago Journal 
+&amp; Country Rank"><img border="0" align="right" src="https://www.scimagojr.com/journal_img.php?id=5100155074" 
+alt="SCImago Journal &amp; Country Rank"  /></a>
 
-Cite as:
-
-Mario S. Valdés Tresanco, Mario E. Valdes-Tresanco, Pedro A. Valiente, & Ernesto Moreno Frías.
-gmx_MMPBSA (Version v1.4.3). Zenodo. http://doi.org/10.5281/zenodo.4569307
-
-**We will have the article available soon**
+Valdés-Tresanco, M.S., Valdés-Tresanco, M.E., Valiente, P.A. and Moreno E. **gmx_MMPBSA: A New Tool to Perform 
+End-State Free Energy Calculations with GROMACS**. _Journal of Chemical Theory and Computation_, 2021 17 (10), 6281-6291
+https://pubs.acs.org/doi/10.1021/acs.jctc.1c00645
 
 Please also consider citing MMPBSA.py's paper:
 
-**MMPBSA.py: An Efficient Program for End-State Free Energy Calculations**. Bill R. Miller, T. Dwight McGee, Jason M.
-Swails, Nadine Homeyer, Holger Gohlke, and Adrian E. Roitberg. _Journal of Chemical Theory and Computation_, 2012 8 
-(9), 3314-3321. (https://pubs.acs.org/doi/10.1021/ct300418h)
+Bill R. Miller, T. Dwight McGee, Jason M. Swails, Nadine Homeyer, Holger Gohlke, and Adrian E. Roitberg. **MMPBSA.py: 
+An Efficient Program for End-State Free Energy Calculations**. _Journal of Chemical Theory and Computation_, 2012 8 
+(9), 3314-3321. https://pubs.acs.org/doi/10.1021/ct300418h
 
 ---------------------------------------
 
 Authors:
-- Mario Sergio Valdés Tresanco, PhD Student. _University of Medellin, Colombia_
-- Mario Ernesto Valdés Tresanco, PhD Student. _University of Calgary, Canada._
-- Pedro Alberto Valiente, PhD. _University of Toronto, Canada_
-- Ernesto Moreno Frías, PhD. _University of Medellin, Colombia_
+- [Mario Sergio Valdés Tresanco](https://www.researchgate.net/profile/Mario-Valdes-Tresanco-2), PhD Student. _University of Medellin, Colombia_
+- [Mario Ernesto Valdés Tresanco](https://www.researchgate.net/profile/Mario-Valdes-Tresanco), PhD Student. _University of Calgary, Canada._
+- [Pedro Alberto Valiente](https://www.researchgate.net/profile/Pedro-Valiente), PhD. _University of Toronto, Canada_
+- [Ernesto Moreno Frías](https://www.researchgate.net/profile/Ernesto-Moreno-Frias), PhD. _University of Medellin, Colombia_
 
 ---------------------------------------
